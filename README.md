@@ -2,6 +2,6 @@
 
 Conceptual testing for a crafting-themed idle incremental game. 
 
-# Want to try it? 
+## Want to try it? 
 I'll host some kind of public demo when I have something workable. For now, you can download and run it locally. 
 
